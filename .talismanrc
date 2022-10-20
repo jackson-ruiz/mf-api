@@ -1,0 +1,112 @@
+fileignoreconfig:
+  - filename: node_modules/call-bind/CHANGELOG.md
+    checksum: 24c57108ebcae0905189b445b6bc666d07e0fe4b62a99bc9944da3dee598f87f
+  - filename: node_modules/get-intrinsic/CHANGELOG.md
+    checksum: 7098d8569e47378ccbada7c39945a225d4576034200ee5cc3d4401bebcb64e80
+  - filename: node_modules/cookie-signature/Readme.md
+    checksum: 2f1362b959e90a3a8855d30611b2f9cc605535c68e8d50d4add61b37a95dcbd4
+  - filename: node_modules/debug/.coveralls.yml
+    checksum: f69c706c819a18b0ca9471611520bb99123c0b9629074b9a33d20a63bcfcbe61
+  - filename: node_modules/debug/README.md
+    checksum: 94f6f41e7aed5adf8133dcb3aa38f2231008cea9ce659209daa2b8484a4b8ccf
+  - filename: node_modules/has-symbols/CHANGELOG.md
+    checksum: cdd6457c419b3235477d518ff6742db26000970a47fb2c6ee8a84b27876e2e90
+  - filename: node_modules/safe-buffer/README.md
+    checksum: 573974a6737b2b0ab845ec712ee1471355574c58d73a2c91a32f66b60b54ae4f
+  - filename: node_modules/safer-buffer/Readme.md
+    checksum: ce39a83d50760ba7a93268aa325c4e9ed1c9408b1cec0e7c6172ef31092ba9a6
+  - filename: node_modules/object-inspect/CHANGELOG.md
+    checksum: 7e9fc0f061c87b8e31718870969c4753a457a4e3ad0ecfc6a5db2ac07844c355
+  - filename: node_modules/iconv-lite/encodings/dbcs-data.js
+    checksum: 6c7dff812eb438b3662a7d23dbfb9dd9deafbb57800761f4e5f0d02e3d0b4700
+  - filename: node_modules/side-channel/CHANGELOG.md
+    checksum: c9da21cb9bdd42bac2a3577104b60aa6d5fae582f6793ce6f2b7230310666f53
+  - filename: node_modules/utils-merge/README.md
+    checksum: b8845b7223d102f32ae28ecfeacaa0e778c684cbf53e55e66ba30ebb0befc400
+  - filename: node_modules/iconv-lite/encodings/sbcs-data-generated.js
+    checksum: 0192a57948882bd7b0e2508273050e014770e14d5b278d5f27ec14e2351325ac
+  - filename: node_modules/.package-lock.json
+    checksum: a445283698d23ce89e4c54ca3242ce6b47cf3c3c99bde72f007fc02d07d3c9de
+  - filename: package-lock.json
+    checksum: 3b76f5190936144415e849daa95283142ece0e4e7e524c6bc5d77b61cb2e8c97
+  - filename: node_modules/content-disposition/index.js
+    checksum: 9fab7316c275ef585390970dfaad36288d56841ab340f089530fcca7d65abf96
+  - filename: node_modules/body-parser/lib/types/json.js
+    checksum: cb510eef69e5403102a8cbcc11a3141e5fe65fd2b4793c4287deb43ef60aa642
+  - filename: node_modules/body-parser/lib/types/urlencoded.js
+    checksum: a8b0b68db6766afcfb4f1c1debf33a8e6f9363304d2f19936fef59de11cb9bc1
+  - filename: node_modules/cookie/index.js
+    checksum: a773ad22bc9ec01a6fea4f956a5b763b3938769af9acd0f192768329cc01e35b
+  - filename: node_modules/content-type/index.js
+    checksum: 1ef61d259920e36e10c70eaf32035733f79d593ff42beed0d7f28529e8b88199
+  - filename: node_modules/cors/lib/index.js
+    checksum: aa82985acf3d28476ba5142058710ae526d0722c5b0f14fad1ad79353ec2b67a
+  - filename: node_modules/cookie-signature/package.json
+    checksum: e31b34e0c21828decb402c0b0a9e4c054a42835ce1ea9e35a1db8cf2b2d469f5
+  - filename: node_modules/has-symbols/shams.js
+    checksum: 34acadb3531cf28391c39fbe4dce79e79cc9fd85d0a0fc4e6b9bf90c58254d34
+  - filename: node_modules/debug/src/node.js
+    checksum: f26ab5778ef47232b1d5bf179726d3d63f0fbdfa69e11000896f7ca02e58cc00
+  - filename: node_modules/depd/index.js
+    checksum: 77db256f4b0f40bb1e9a3de357aafc1f4493cb04e842edacbd22d4012526376e
+  - filename: node_modules/http-errors/index.js
+    checksum: 0b1a824e3181fc237e92bd1f99daa08ff72060c6db087891759abbe90f1004c3
+  - filename: node_modules/safe-buffer/index.js
+    checksum: 9b8426c5494d6fe56d6f4f65131c7d06ecb7a784211c63d9e9ab182773c0e607
+  - filename: node_modules/iconv-lite/README.md
+    checksum: 73162d3c195d50fbf97591380009fc04fbc878ca80006d8a753ed43bd2cbb31d
+  - filename: node_modules/safer-buffer/dangerous.js
+    checksum: 6430db46026b5d2fdbb795fc922ae56fcebbfc3728bf1be01b4738fbf97da032
+  - filename: node_modules/safer-buffer/safer.js
+    checksum: aea29d1c74fa32c717a185f391ff9606acbd51a466cd36907f6b2590357b84fa
+  - filename: node_modules/path-to-regexp/Readme.md
+    checksum: e7f3d9e848e8ddfe47576eb8ec8f1035503746d4c0e42ccf321a79965959a919
+  - filename: node_modules/path-to-regexp/index.js
+    checksum: 7ff9d3a92b61d3811da87f7ed9695e24c6157fe5646c34591f3e2925bcbed4ce
+  - filename: node_modules/send/index.js
+    checksum: 18063be558faadfcd5fadb3c016a53d154bc01f54a24d728d052515c2ccaecf6
+  - filename: node_modules/qs/CHANGELOG.md
+    checksum: 8c4b3b2bfb1a988e60fe548dc4cf2e7f037d3029222cb1041d298aa3a21fc673
+  - filename: node_modules/express/lib/router/layer.js
+    checksum: 622b37e7e7510d4e7b28867eb056df31007d8e6785155a0bce663c6909859a9d
+  - filename: node_modules/express/lib/router/index.js
+    checksum: e7ad4c7092fba161da1f3e00c37bb7f187410cdfadf3231260c0f76f208cc311
+  - filename: node_modules/setprototypeof/package.json
+    checksum: 121d2b9054ab4a155db38e96990da3c7d2e8d5c7910f5b3e6731b2eee0c8faf4
+  - filename: node_modules/express/lib/response.js
+    checksum: b2cd36203fa6fc445df65707356757c234bcb5c05cd3e678bc881f2b05bb4f67
+  - filename: node_modules/qs/lib/parse.js
+    checksum: ca84a569853f04a9bfce5cc22df2cc9be46f1032c22d953d78d42e3359178d5d
+  - filename: node_modules/qs/lib/stringify.js
+    checksum: 4377a7e6af3ad69c6e85a87fac74d634026afb15a38b3c020216ba199aeac51e
+  - filename: node_modules/express/package.json
+    checksum: 527b02cb7c65a85113b11e9a42be208071ac5b596aa77018ec26c993c51d2e6b
+  - filename: node_modules/qs/lib/utils.js
+    checksum: e8ef6afb339070e6e857ad119e87bf0230579e1ef134705edc3cde5401f7fcd9
+  - filename: node_modules/qs/dist/qs.js
+    checksum: fca36302b8b5f048df0ed490acd8aae10f6bff6415a84e84f4432c8efc570af6
+  - filename: node_modules/object-inspect/index.js
+    checksum: 30dd2e5dbf91145b7cc993c6c96f4e812419c9c20c34654ca9da8c17d22ec004
+  - filename: node_modules/mime/types.json
+    checksum: f9a3a306e2ae0f3f00f52eff0e360e192ddba75fcb175e3870a54a35d5492f5c
+  - filename: node_modules/finalhandler/index.js
+    checksum: e8d714bee17d75a5fd93411cb9085c4a9a0f6155090f80fe0183c97a687d0dd7
+  - filename: node_modules/side-channel/index.js
+    checksum: deb5889939e8d17bbf79506b74a93d5117bd416344354d9298e2846fb6643cc8
+  - filename: node_modules/qs/test/parse.js
+    checksum: 135d8569170410e53fbe6ab0bece7e7f3a39a9676bb46fad81e9f43ca3b77c8c
+  - filename: node_modules/qs/test/stringify.js
+    checksum: a580bb8447c19bbedbee2d7311329152983ee7d8ccd72a746f88d3a20eb854c2
+  - filename: node_modules/negotiator/lib/mediaType.js
+    checksum: 62fdd6dc560abb96cc5e82196f3d7493f995620b76fa251b70593f9f47219e31
+  - filename: node_modules/object-assign/index.js
+    checksum: e42cbd2403fedd3ed430b626b6e0a98699157a8eb063151edc2945fd03aa6b21
+  - filename: node_modules/function-bind/.jscs.json
+    checksum: 3b421d120d25eebdb05569f7be03cad1b400ef0200c407bacbf5602c613ff191
+  - filename: node_modules/iconv-lite/lib/index.js
+    checksum: 83560ece1b2e154291c155ed3d62b5485c8bd2bf81fc168e0d1f5c32e63cf292
+  - filename: node_modules/get-intrinsic/index.js
+    checksum: a91ec9aa22c5f7859f1ba1c32816a9162e32302230c11623ca7fc235273e29bf
+  - filename: node_modules/media-typer/index.js
+    checksum: 588b1623d3050cbd37ffdba1b7f3f880c9aa9ed1c28bdc6edcbbb456a5a1591e
+version: ""
